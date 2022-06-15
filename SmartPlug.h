@@ -1,4 +1,4 @@
-#include <ESP8266WiFi.h> 
+#include <WiFi.h> 
 #include "WiFiManager.h"
 #include <EEPROM.h>
 
